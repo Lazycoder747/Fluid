@@ -94,7 +94,7 @@ git@github.com:RiversideValley/Fluid.git
 ```
 
 ```bash
-gh repo clone RiversideValley/Fluid
+git repo clone RiversideValley/Fluid
 ```
 
 ### 3️⃣ Build the project
